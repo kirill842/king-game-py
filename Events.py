@@ -1,6 +1,6 @@
 """
-kirprogfrog@gmail.com
 Authored by
+kirprogfrog@gmail.com
 """
 
 import random
